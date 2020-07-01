@@ -1,0 +1,1 @@
+taskkill /IM cloudmusic.exe >NUL 2>NUL

@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "clash-windows-amd64 -d .",0
